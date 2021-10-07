@@ -1,2 +1,2 @@
 # My Portfolio
-[https://faixal.netlify.app/]
+https://faixal.netlify.app/
