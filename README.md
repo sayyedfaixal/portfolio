@@ -1,3 +1,1 @@
-# My Portfolio
-
-[Markdown Live Preview](https://faixal.netlify.app/)
+# [My Portfolio](https://faixal.netlify.app/)
